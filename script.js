@@ -16,7 +16,15 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing", {
-    strings: ["Desenvolvedor", "JavaScript", "NodeJs", "SQL", "MongoDB"],
+    strings: [
+      "Desenvolvedor",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "NodeJs",
+      "PostgreSQL",
+      "MongoDB",
+    ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
